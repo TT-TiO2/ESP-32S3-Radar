@@ -124,7 +124,8 @@ const char* WIFI_PASS = "YOUR_NETWORK_PASSWORD";
 | Board | ESP32S3 Dev Module |
 | PSRAM | OPI PSRAM |
 | Flash size | 16MB (or match your board) |
-| Upload speed | 921600 |
+| Partition Scheme | Huge APP (3MB)
+| Upload speed | 115200 |
 | Port | your COM / tty port |
 
 Select the correct port, then **Upload** (`Ctrl+U` / `Cmd+U`).
