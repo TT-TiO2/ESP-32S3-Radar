@@ -56,16 +56,16 @@ The project is designed as an ongoing platform. Each version adds one focused fe
 
 | Version | Date | What changed |
 |---------|------|-------------|
-| **v1** | Oct 16 | Baseline: live radar, touch-to-select, emergency squawk ring, auto-recovery |
-| **v2** | Oct 16 | Route and model lookup from adsbdb.com; buffered network jobs |
-| **v3** | Oct 20 | Paged sidebar list, prev/next arrows in the detail panel, buffered JSON download (fixes campus-network parse errors) |
-| **v4** | Oct 21 | Filter and zoom menu opened from the RANGE AC box; settings saved across reboots |
-| **v5** | Oct 21 | Smaller RANGE AC box so it doesn't clip the outer radar ring; amber tint replaces the "FILTERED" label |
-| **v6** | Oct 22 | Custom location screen; place name and time zone lookup; daylight saving re-check every 6 hours |
-| **v7** | Oct 23 | Multi-screen foundation: screen manager, top-left switcher, full-screen weather screen (DAILY + WEEKLY) |
-| **v8** | Oct 24 | Hourly weather strip on DAILY; tap-a-day 24-hour view in WEEKLY |
-| **v9** | Oct 24 | 24-hour clock on the weather screen; all hour labels in 24-hour format |
-| **v10** | Oct 25 | Plane types by dot shape; squawk banner; airport markers; favorite places menu; auto-dim from real sunrise/sunset; remembers last screen |
+| **v1** | Sep 15 | Baseline: live radar, touch-to-select, emergency squawk ring, auto-recovery |
+| **v2** | Sep 19 | Route and model lookup from adsbdb.com; buffered network jobs |
+| **v3** | Sep 23 | Paged sidebar list, prev/next arrows in the detail panel, buffered JSON download (fixes campus-network parse errors) |
+| **v4** | Sep 27 | Filter and zoom menu opened from the RANGE AC box; settings saved across reboots |
+| **v5** | Oct 1 | Smaller RANGE AC box so it doesn't clip the outer radar ring; amber tint replaces the "FILTERED" label |
+| **v6** | Oct 4 | Custom location screen; place name and time zone lookup; daylight saving re-check every 6 hours |
+| **v7** | Oct 8 | Multi-screen foundation: screen manager, top-left switcher, full-screen weather screen (DAILY + WEEKLY) |
+| **v8** | Oct 10 | Hourly weather strip on DAILY; tap-a-day 24-hour view in WEEKLY |
+| **v9** | Oct 12 | 24-hour clock on the weather screen; all hour labels in 24-hour format |
+| **v10** | Oct 20 | Plane types by dot shape; squawk banner; airport markers; favorite places menu; auto-dim from real sunrise/sunset; remembers last screen |
 
 ---
 
