@@ -1,7 +1,7 @@
 // Realtime Airplane Radar UI - STEP 4
 // CrowPanel 7.0" ESP32-S3 800x480 RGB
 // Real aircraft data + background API update + sweep reveal effect
-// by micemk May, 2026
+// Credit. Orginial base was mircemk May, 2026
 // Updated by (TT-Tio2) for Philadelphia / Boathouse Row
 
 #define LGFX_USE_V1
